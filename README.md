@@ -1,6 +1,6 @@
 # FirstApi
 
-Series of exercise with Spring boot completed with the school of develop
+Set of exercise with Spring boot completed in developer school
 
 # Exercise - Spring Boot - First API 1
 * write a Spring Boot application with the necessary dependencies that has:
